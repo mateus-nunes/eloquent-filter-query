@@ -1,5 +1,5 @@
 {
-    "name": "mnabialek/laravel-eloquent-filter",
+    "name": "mateus-nunes/eloquent-filter-query",
     "description": "Allows filtering Eloquent queries by input filters",
     "require": {
         "laravel/framework": "5.* || 6.*"
